@@ -3,8 +3,8 @@
 Esta é uma Landing Page desenvolvida com foco em performance, experiência do usuário e conversão para o mercado de **Infoprodutos**. O projeto demonstra a aplicação de tecnologias modernas e um fluxo de trabalho acelerado por Inteligência Artificial.
 
 ## 🔗 Links
-- **Live Demo:** [Link da Vercel Aqui]
-- **Repositório:** https://github.com/rafael-rodrigues-santos/ai-example
+- **Live Demo:** [Link da Vercel](https://ai-example-pag9cj448-rafaelrodriguessantos-projects.vercel.app/)
+- **Repositório:** [Link Github](https://github.com/rafael-rodrigues-santos/ai-example)
 
 ## 🛠️ Stack Técnica
 - **Framework:** Next.js 14+ (App Router)
