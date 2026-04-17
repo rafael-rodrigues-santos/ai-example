@@ -1,4 +1,6 @@
-# 🚀 Landing Page de Alta Conversão - [Nome do Infoproduto]
+# 🚀 Landing Page de Alta Conversão - O Novo Mercado
+
+<img width="1352" height="786" alt="image" src="https://github.com/user-attachments/assets/fbdf49ef-c8b1-4a21-adb0-28e683ac93ab" />
 
 Esta é uma Landing Page desenvolvida com foco em performance, experiência do usuário e conversão para o mercado de **Infoprodutos**. O projeto demonstra a aplicação de tecnologias modernas e um fluxo de trabalho acelerado por Inteligência Artificial.
 
